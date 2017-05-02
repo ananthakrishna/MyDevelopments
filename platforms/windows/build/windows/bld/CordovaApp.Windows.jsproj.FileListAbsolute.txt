@@ -1,0 +1,17 @@
+D:\MyPro\JavaEEPro\javaWorkspace\HelloCordova\platforms\windows\build\windows\debug\x86\win8.1\resources.pri
+D:\MyPro\JavaEEPro\javaWorkspace\HelloCordova\platforms\windows\build\windows\debug\x86\win8.1\AppxManifest.xml
+D:\MyPro\JavaEEPro\javaWorkspace\HelloCordova\platforms\windows\build\windows\debug\x86\win8.1\CordovaApp.Windows.build.appxrecipe
+D:\MyPro\JavaEEPro\javaWorkspace\HelloCordova\platforms\windows\build\windows\bld\priconfig.xml
+D:\MyPro\JavaEEPro\javaWorkspace\HelloCordova\platforms\windows\build\windows\bld\priconfig.xml.intermediate
+D:\MyPro\JavaEEPro\javaWorkspace\HelloCordova\platforms\windows\build\windows\bld\layout.resfiles
+D:\MyPro\JavaEEPro\javaWorkspace\HelloCordova\platforms\windows\build\windows\bld\layout.resfiles.intermediate
+D:\MyPro\JavaEEPro\javaWorkspace\HelloCordova\platforms\windows\build\windows\bld\resources.resfiles
+D:\MyPro\JavaEEPro\javaWorkspace\HelloCordova\platforms\windows\build\windows\bld\resources.resfiles.intermediate
+D:\MyPro\JavaEEPro\javaWorkspace\HelloCordova\platforms\windows\build\windows\bld\pri.resfiles
+D:\MyPro\JavaEEPro\javaWorkspace\HelloCordova\platforms\windows\build\windows\bld\pri.resfiles.intermediate
+D:\MyPro\JavaEEPro\javaWorkspace\HelloCordova\platforms\windows\build\windows\bld\qualifiers.txt
+D:\MyPro\JavaEEPro\javaWorkspace\HelloCordova\platforms\windows\build\windows\bld\qualifiers.txt.intermediate
+D:\MyPro\JavaEEPro\javaWorkspace\HelloCordova\platforms\windows\build\windows\bld\MultipleQualifiersPerDimensionFound.txt
+D:\MyPro\JavaEEPro\javaWorkspace\HelloCordova\platforms\windows\build\windows\bld\ProjectArchitectures.txt
+D:\MyPro\JavaEEPro\javaWorkspace\HelloCordova\platforms\windows\build\windows\bld\package.map.txt
+D:\MyPro\JavaEEPro\javaWorkspace\HelloCordova\platforms\windows\build\windows\bld\_pkginfo.txt

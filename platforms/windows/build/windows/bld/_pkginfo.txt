@@ -1,0 +1,1 @@
+D:\MyPro\JavaEEPro\javaWorkspace\HelloCordova\platforms\windows\AppPackages\CordovaApp.Windows_0.0.1.0_x86_debug_Test\CordovaApp.Windows_0.0.1.0_x86_debug.appx

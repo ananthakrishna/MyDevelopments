@@ -1,0 +1,1 @@
+D:\MyPro\JavaEEPro\javaWorkspace\HelloCordova\platforms\windows\CordovaApp.Windows.jsproj;x86
